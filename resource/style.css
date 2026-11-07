@@ -1,4 +1,6 @@
 body {
   background: #000000 url(/resource/dgrey048.jpg) center center/auto repeat;
   color: #ffffff;
+  font-family: serif;
+  text-align: center;
 }
