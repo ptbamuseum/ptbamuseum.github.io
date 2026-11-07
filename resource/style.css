@@ -6,6 +6,6 @@ body {
   margin: 25px 25px 25px 25px;
 }
 
-img {
+.border {
   border: 6px groove #d5d5d5;
 }
