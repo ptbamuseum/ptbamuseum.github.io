@@ -18,3 +18,7 @@ a {
 a:hover {
   color: #FFB8FF;
 }
+
+table {
+  vertical-align: top;
+}
