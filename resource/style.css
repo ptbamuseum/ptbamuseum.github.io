@@ -1,6 +1,6 @@
 body {
   background: #000000 url(/resource/dgrey048.jpg) center center/auto repeat;
-  color: #ffffff;
+  color: white;
   font-family: serif;
   text-align: center;
   margin: 25px 25px 25px 25px;
@@ -8,4 +8,13 @@ body {
 
 .border {
   border: 4px groove #d5d5d5;
+}
+
+a {
+  color: fuchsia;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF45FF;
 }
