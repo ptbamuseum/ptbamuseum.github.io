@@ -11,10 +11,10 @@ body {
 }
 
 a {
-  color: fuchsia;
+  color: #FF45FF;
   text-decoration: none;
 }
 
 a:hover {
-  color: #FF45FF;
+  color: #FFB8FF;
 }
